@@ -1,4 +1,4 @@
-version = "1.0.3"
+version = "3.0.0"  # major.minor.patch
 commands = ["open calc", "say hello", "kill ousama"]
 
 
