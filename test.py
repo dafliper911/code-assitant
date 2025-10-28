@@ -1,4 +1,3 @@
-version = "1.0.1"
-print(version)
+version = "1.0.0"
 
-print("test nigga test")
+print(version)
